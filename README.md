@@ -35,3 +35,15 @@ Responsável pela criação das tabelas analíticas utilizadas para responder pe
 
 ---
 
+---
+
+## 🛠 Tecnologias Utilizadas
+
+As principais tecnologias utilizadas no desenvolvimento deste projeto foram:
+
+- **Databricks**: plataforma utilizada para processamento distribuído, desenvolvimento dos notebooks e gerenciamento das tabelas Delta.
+- **Apache Spark (PySpark)**: utilizado para processamento, transformação e análise dos dados.
+- **Delta Lake**: utilizado para armazenamento das tabelas nas camadas Bronze, Silver e Gold.
+- **Git e GitHub**: utilizados para versionamento do código, documentação e acompanhamento da evolução do projeto.
+- **Python**: linguagem utilizada para desenvolvimento das transformações de dados utilizando PySpark.
+
